@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21fcadf9-2946-4ff5-ab13-3c0ab876c2c3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1e7NA3cIUvfgLShb80TCrX2sgwL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21fcadf9-2946-4ff5-ab13-3c0ab876c2c3" name="Default Changelist" comment="" />
+      <created>1593668524165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593668524165</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="753" y="181" key="FileChooserDialogImpl" timestamp="1593790818969">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="753" y="181" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593790818969" />
+    <state x="877" y="334" key="Github.ShareDialog" timestamp="1593672350136">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="877" y="334" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1593672350136" />
+    <state x="477" y="73" key="SettingsEditor" timestamp="1593668532429">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="73" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593668532429" />
+    <state x="654" y="251" key="com.intellij.ide.util.TipDialog" timestamp="1593790814953">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="654" y="251" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1593790814953" />
+    <state x="356" y="36" key="new project wizard" timestamp="1593790831850">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="356" y="36" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1593790831850" />
+  </component>
+</project>
